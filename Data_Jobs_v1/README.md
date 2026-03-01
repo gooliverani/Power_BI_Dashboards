@@ -2,7 +2,7 @@
 
 ![Dashboard Page 1](/images/Project_1_1.png)
 
-[View interactive dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiY2ViY2ExZmEtODRhOC00MjRjLTkwMWYtMTM0MzQ4YTQ4Y2NjIiwidCI6ImFiMDZmNTdiLTIxYWUtNGZkYy04NTAzLTVhNDk5YjU3ZjEzZCIsImMiOjl9)
+[🌐 **View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiY2ViY2ExZmEtODRhOC00MjRjLTkwMWYtMTM0MzQ4YTQ4Y2NjIiwidCI6ImFiMDZmNTdiLTIxYWUtNGZkYy04NTAzLTVhNDk5YjU3ZjEzZCIsImMiOjl9)
 
 ## Introduction
 
